@@ -1,0 +1,15 @@
+# Rust/Cargo generated files
+/target/
+Cargo.lock
+
+# Visual Studio Code specific files
+.vscode/
+
+# IntelliJ IDEA specific files
+.idea/
+
+# Rust backup files
+**/*.rs.bk
+
+# MSVC Windows builds of rustc generate these, which store debugging information
+*.pdb
